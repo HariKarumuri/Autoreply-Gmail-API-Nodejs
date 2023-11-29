@@ -41,6 +41,8 @@ jspm_packages/
 
 # dotenv environment variables file
 .env
+credentials.json
+token.json
 
 # production environment
 production.env
